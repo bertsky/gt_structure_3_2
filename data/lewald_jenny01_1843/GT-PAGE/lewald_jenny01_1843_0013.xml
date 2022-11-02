@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:18:35</Created>
+	<LastChange>2019-03-12T14:31:53</LastChange></Metadata>
+	<Page imageFilename="lewald_jenny01_1843_0013.jpg" imageWidth="1284" imageHeight="1968" type="content">
+	<PrintSpace>
+	<Coords points="1169,1897 1169,64 11,64 11,1897"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r0" type="drop-capital">
+	<Coords points="183,792 183,704 90,704 90,792"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="145,1682 792,1682 792,1751 145,1751"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1016,690 1016,1534 969,1534 969,1535 875,1535 875,1536 782,1536 782,1537 689,1537 689,1538 595,1538 595,1539 502,1539 502,1540 408,1540 408,1541 315,1541 315,1542 222,1542 222,1543 128,1543 128,1544 82,1544 82,690"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1016,1536 1016,1679 82,1679 82,1546 129,1546 129,1545 223,1545 223,1544 316,1544 316,1543 409,1543 409,1542 503,1542 503,1541 596,1541 596,1540 690,1540 690,1539 783,1539 783,1538 876,1538 876,1537 970,1537 970,1536"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

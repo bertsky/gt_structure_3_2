@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:18:35</Created>
+	<LastChange>2019-03-12T14:31:43</LastChange></Metadata>
+	<Page imageFilename="lewald_jenny01_1843_0424.jpg" imageWidth="1284" imageHeight="1968" type="content">
+	<PrintSpace>
+	<Coords points="1276,1907 1276,57 164,57 164,1907"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<SeparatorRegion id="region_1">
+	<Coords points="567,1443 1016,1443 1016,1504 567,1504"/></SeparatorRegion>
+	<TextRegion id="region_2" custom="#back_paragraph" type="other">
+	<Coords points="526,1626 1066,1626 1066,1698 526,1698"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="861,261 861,211 754,211 754,261"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<NoiseRegion id="r2">
+	<Coords points="1030,1895 1030,1645 164,1645 164,1895"/></NoiseRegion>
+	<NoiseRegion id="r3">
+	<Coords points="895,1583 895,1480 590,1480 590,1583"/></NoiseRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1221,309 1221,439 1159,439 1159,440 1037,440 1037,441 914,441 914,442 792,442 792,443 670,443 670,444 547,444 547,445 425,445 425,446 364,446 364,309"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1221,441 1221,1392 364,1392 364,448 426,448 426,447 548,447 548,446 671,446 671,445 793,445 793,444 915,444 915,443 1038,443 1038,442 1160,442 1160,441"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

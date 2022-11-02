@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:19:03</Created>
+	<LastChange>2019-03-12T14:28:08</LastChange></Metadata>
+	<Page imageFilename="mangoldt_unternehmergewinn_1855_0025.jpg" imageWidth="1924" imageHeight="2748" type="content">
+	<PrintSpace>
+	<Coords points="1603,2576 1603,203 80,203 80,2576"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote-continued">
+	<Coords points="225,1119 1461,1119 1461,1449 225,1449"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1430,1063 1430,446 253,446 253,1063"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords points="803,336 803,386 880,386 880,336"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="590,1113 590,1086 236,1086 236,1113"/></SeparatorRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords points="1461,1449 1461,2242 1373,2242 1373,2241 1195,2241 1195,2240 1018,2240 1018,2239 841,2239 841,2238 663,2238 663,2237 486,2237 486,2236 308,2236 308,2235 219,2235 219,1449"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords points="307,2237 307,2238 485,2238 485,2239 662,2239 662,2240 840,2240 840,2241 1017,2241 1017,2242 1194,2242 1194,2243 1372,2243 1372,2244 1461,2244 1461,2406 219,2406 219,2237"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

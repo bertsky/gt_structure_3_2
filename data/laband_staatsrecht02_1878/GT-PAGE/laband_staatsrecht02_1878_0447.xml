@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:18:00</Created>
+	<LastChange>2019-03-12T14:41:02</LastChange></Metadata>
+	<Page imageFilename="laband_staatsrecht02_1878_0447.jpg" imageWidth="1695" imageHeight="2703" type="content">
+	<PrintSpace>
+	<Coords points="1506,2633 1506,130 6,130 6,2633"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/>
+	<RegionRefIndexed regionRef="r15" index="4"/>
+	<RegionRefIndexed regionRef="region_3" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#list_item" type="paragraph">
+	<Coords points="21,762 1284,762 1284,1662 21,1662"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="78,2394 1053,2394 1053,2454 78,2454"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1266,356 1266,316 1176,316 1176,356"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1006,370 1006,286 330,286 330,370"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1280,750 1280,396 33,396 33,750"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="280,1690 280,1656 53,1656 53,1690"/></SeparatorRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords points="1281,1680 1281,1819 1192,1819 1192,1818 1014,1818 1014,1817 836,1817 836,1816 658,1816 658,1815 479,1815 479,1814 301,1814 301,1813 123,1813 123,1812 33,1812 33,1680"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords points="122,1814 122,1815 300,1815 300,1816 478,1816 478,1817 657,1817 657,1818 835,1818 835,1819 1013,1819 1013,1820 1191,1820 1191,1821 1281,1821 1281,1859 1177,1859 1177,1860 969,1860 969,1861 761,1861 761,1862 553,1862 553,1863 345,1863 345,1864 137,1864 137,1865 33,1865 33,1814"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="footnote">
+	<Coords points="1281,1861 1281,2089 1126,2089 1126,2088 814,2088 814,2087 502,2087 502,2086 190,2086 190,2085 33,2085 33,1867 138,1867 138,1866 346,1866 346,1865 554,1865 554,1864 762,1864 762,1863 970,1863 970,1862 1178,1862 1178,1861"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="footnote">
+	<Coords points="189,2087 189,2088 501,2088 501,2089 813,2089 813,2090 1125,2090 1125,2091 1281,2091 1281,2391 33,2391 33,2087"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

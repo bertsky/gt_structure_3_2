@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:18:58</Created>
+	<LastChange>2019-03-12T14:29:11</LastChange></Metadata>
+	<Page imageFilename="ludwig_physiologie01_1852_0326.jpg" imageWidth="1996" imageHeight="2902" type="content">
+	<PrintSpace>
+	<Coords points="1939,2753 1939,207 414,207 414,2753"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level1" type="heading">
+	<Coords points="700,563 1775,563 1775,822 700,822"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#heading_level2" type="heading">
+	<Coords points="816,916 1592,916 1592,1023 816,1023"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#heading_level3" type="heading">
+	<Coords points="743,1360 1692,1360 1692,1458 743,1458"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="footnote">
+	<Coords points="540,2503 1232,2503 1232,2585 540,2585"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="653,346 653,275 557,275 557,346"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="1371,871 1371,839 1075,839 1075,871"/></SeparatorRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1892,1332 1892,1053 510,1053 510,1332"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="810,2517 810,2471 492,2471 492,2517"/></SeparatorRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1885,1460 1885,2127 1853,2127 1853,2126 1788,2126 1788,2125 1724,2125 1724,2124 1659,2124 1659,2123 1594,2123 1594,2122 1529,2122 1529,2121 1465,2121 1465,2120 1400,2120 1400,2119 1335,2119 1335,2118 1270,2118 1270,2117 1206,2117 1206,2116 1141,2116 1141,2115 1076,2115 1076,2114 1011,2114 1011,2113 946,2113 946,2112 882,2112 882,2111 817,2111 817,2110 752,2110 752,2109 687,2109 687,2108 623,2108 623,2107 558,2107 558,2106 525,2106 525,1460"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="557,2108 557,2109 622,2109 622,2110 686,2110 686,2111 751,2111 751,2112 816,2112 816,2113 881,2113 881,2114 945,2114 945,2115 1010,2115 1010,2116 1075,2116 1075,2117 1140,2117 1140,2118 1205,2118 1205,2119 1269,2119 1269,2120 1334,2120 1334,2121 1399,2121 1399,2122 1464,2122 1464,2123 1528,2123 1528,2124 1593,2124 1593,2125 1658,2125 1658,2126 1723,2126 1723,2127 1787,2127 1787,2128 1852,2128 1852,2129 1885,2129 1885,2492 525,2492 525,2108"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

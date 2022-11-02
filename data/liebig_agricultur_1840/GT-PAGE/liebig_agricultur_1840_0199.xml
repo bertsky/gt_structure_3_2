@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:18:38</Created>
+	<LastChange>2019-03-05T12:36:36</LastChange></Metadata>
+	<Page imageFilename="liebig_agricultur_1840_0199.jpg" imageWidth="1984" imageHeight="2694" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level2" type="heading">
+	<Coords points="440,743 1169,743 1169,842 440,842"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#heading_level3" type="heading">
+	<Coords points="380,1020 1205,1020 1205,1099 380,1099"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="paragraph">
+	<Coords points="273,1096 1355,1096 1355,1605 273,1605"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="footnote">
+	<Coords points="283,2096 1395,2096 1395,2255 283,2255"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="980,936 980,893 666,893 666,936"/></SeparatorRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="600,2083 600,2040 283,2040 283,2083"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="910,1663 910,1616 696,1616 696,1663"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1373,2016 1373,1700 266,1700 266,2016"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

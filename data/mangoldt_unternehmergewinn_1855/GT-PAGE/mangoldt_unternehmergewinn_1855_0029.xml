@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:19:03</Created>
+	<LastChange>2019-03-12T14:27:53</LastChange></Metadata>
+	<Page imageFilename="mangoldt_unternehmergewinn_1855_0029.jpg" imageWidth="1924" imageHeight="2748" type="content">
+	<PrintSpace>
+	<Coords points="1586,2586 1586,213 113,213 113,2586"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="region_2" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" type="signature-mark">
+	<Coords points="1119,2367 1215,2367 1215,2421 1119,2421"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="880,403 880,316 790,316 790,403"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="566,1706 566,1666 240,1666 240,1706"/></SeparatorRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1430,416 1430,555 1368,555 1368,556 1246,556 1246,557 1124,557 1124,558 1001,558 1001,559 879,559 879,560 756,560 756,561 634,561 634,562 512,562 512,563 389,563 389,564 267,564 267,565 206,565 206,416"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1430,557 1430,1653 206,1653 206,567 268,567 268,566 390,566 390,565 513,565 513,564 635,564 635,563 757,563 757,562 880,562 880,561 1002,561 1002,560 1125,560 1125,559 1247,559 1247,558 1369,558 1369,557"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords points="1446,1707 1446,2265 1293,2265 1293,2266 987,2266 987,2267 681,2267 681,2268 375,2268 375,2269 222,2269 222,1707"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="footnote">
+	<Coords points="1446,2267 1446,2367 222,2367 222,2271 376,2271 376,2270 682,2270 682,2269 988,2269 988,2268 1294,2268 1294,2267"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:18:28</Created>
+	<LastChange>2019-03-12T14:37:15</LastChange></Metadata>
+	<Page imageFilename="lehnert_seehaefen02_1892_0619.jpg" imageWidth="2363" imageHeight="3172" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="170,1813 1562,1813 1562,2713 170,2713"/></TableRegion>
+	<TextRegion id="region_2" type="signature-mark">
+	<Coords points="1270,2713 1385,2713 1385,2782 1270,2782"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1561,534 1561,484 1461,484 1461,534"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="984,534 984,465 792,465 792,534"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords points="1003,1830 1003,1788 792,1788 792,1830"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="407,1468 407,1469 884,1469 884,1470 1361,1470 1361,1471 1600,1471 1600,1784 169,1784 169,1468"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="1600,565 1600,1154 169,1154 169,565"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="1600,1156 1600,1469 1362,1469 1362,1468 885,1468 885,1467 408,1467 408,1466 169,1466 169,1156"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

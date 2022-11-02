@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:18:28</Created>
+	<LastChange>2019-03-12T14:38:05</LastChange></Metadata>
+	<Page imageFilename="lehnert_seehaefen02_1892_0541.jpg" imageWidth="2362" imageHeight="3171" type="content">
+	<PrintSpace>
+	<Coords points="1773,2976 1773,284 61,284 61,2976"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#list_item" type="paragraph">
+	<Coords points="183,1783 843,1783 843,2778 183,2778"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#list_item" type="paragraph">
+	<Coords points="860,1786 1562,1786 1562,2775 860,2775"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1557,542 1557,473 1434,473 1434,542"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="984,526 984,473 761,473 761,526"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1561,557 1561,1310 1531,1310 1531,1309 1470,1309 1470,1308 1409,1308 1409,1307 1348,1307 1348,1306 1287,1306 1287,1305 1226,1305 1226,1304 1165,1304 1165,1303 1104,1303 1104,1302 1043,1302 1043,1301 982,1301 982,1300 921,1300 921,1299 860,1299 860,1298 798,1298 798,1297 737,1297 737,1296 676,1296 676,1295 615,1295 615,1294 554,1294 554,1293 493,1293 493,1292 432,1292 432,1291 371,1291 371,1290 310,1290 310,1289 249,1289 249,1288 188,1288 188,1287 157,1287 157,557"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="187,1289 187,1290 248,1290 248,1291 309,1291 309,1292 370,1292 370,1293 431,1293 431,1294 492,1294 492,1295 553,1295 553,1296 614,1296 614,1297 675,1297 675,1298 736,1298 736,1299 797,1299 797,1300 859,1300 859,1301 920,1301 920,1302 981,1302 981,1303 1042,1303 1042,1304 1103,1304 1103,1305 1164,1305 1164,1306 1225,1306 1225,1307 1286,1307 1286,1308 1347,1308 1347,1309 1408,1309 1408,1310 1469,1310 1469,1311 1530,1311 1530,1312 1561,1312 1561,1800 157,1800 157,1289"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

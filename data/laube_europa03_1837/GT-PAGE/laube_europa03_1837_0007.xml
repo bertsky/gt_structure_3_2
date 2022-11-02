@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:18:09</Created>
+	<LastChange>2019-03-05T12:10:57</LastChange></Metadata>
+	<Page imageFilename="laube_europa03_1837_0007.jpg" imageWidth="1272" imageHeight="2136" type="content">
+	<PrintSpace>
+	<Coords points="1197,2039 1197,55 2,55 2,2039"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/></OrderedGroup></ReadingOrder>
+	<SeparatorRegion id="region_2">
+	<Coords points="140,1403 1012,1403 1012,1492 140,1492"/></SeparatorRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="981,407 981,315 131,315 131,407"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="655,528 655,494 476,494 476,528"/></SeparatorRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="868,1039 868,718 278,718 278,1039"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="928,1765 928,1507 239,1507 239,1765"/>
+	<SeparatorRegion id="r4">
+	<Coords points="621,1692 621,1671 510,1671 510,1692"/></SeparatorRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<NoiseRegion id="r5">
+	<Coords points="700,207 700,47 415,47 415,207"/></NoiseRegion>
+	<GraphicRegion id="r6" type="stamp">
+	<Coords points="805,489 765,489 744,492 734,494 721,500 707,507 702,518 694,526 694,539 686,563 684,573 684,615 692,628 700,639 707,650 715,657 726,665 734,673 747,678 760,681 810,681 821,684 831,686 842,689 934,689 944,684 955,678 968,673 981,660 992,652 1002,644 1013,636 1021,623 1026,613 1028,600 1031,589 1031,576 1028,565 1013,544 1005,536 992,521 976,510 963,502 934,489 923,484 905,478 892,478 873,476 810,476 802,484 800,494"/></GraphicRegion></Page></PcGts>

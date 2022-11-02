@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:18:16</Created>
+	<LastChange>2019-03-05T12:13:07</LastChange></Metadata>
+	<Page imageFilename="laube_europa0202_1837_0006.jpg" imageWidth="1280" imageHeight="2086" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/>
+	<RegionRefIndexed regionRef="region_4" index="2"/></OrderedGroup></ReadingOrder>
+	<SeparatorRegion id="region_2">
+	<Coords points="483,493 875,493 875,592 483,592"/></SeparatorRegion>
+	<SeparatorRegion id="region_3">
+	<Coords points="213,1426 1168,1426 1168,1525 213,1525"/></SeparatorRegion>
+	<SeparatorRegion id="region_4">
+	<Coords points="586,1700 755,1700 755,1749 586,1749"/></SeparatorRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="910,1043 910,694 407,694 407,1043"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1105,423 1105,292 189,292 189,423"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1015,1394 1015,1269 282,1269 282,1394"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1028,1805 1028,1558 284,1558 284,1805"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

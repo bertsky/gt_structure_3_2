@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:18:30</Created>
+	<LastChange>2019-03-05T12:18:38</LastChange></Metadata>
+	<Page imageFilename="lenau_gedichte_1832_0007.jpg" imageWidth="1297" imageHeight="2080" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="paragraph">
+	<Coords points="102,146 1236,146 1236,745 102,745"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="837,1075 837,969 460,969 460,1075"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="1125,1552 1125,1440 160,1440 160,1552"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="148,1555 148,1797 1148,1797 1148,1555"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:18:42</Created>
+	<LastChange>2019-03-05T12:37:18</LastChange></Metadata>
+	<Page imageFilename="liliencron_adjutantenritte_1883_0007.jpg" imageWidth="1436" imageHeight="2440" type="content">
+	<PrintSpace>
+	<Coords points="1287,2318 1287,100 0,100 0,2318"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="region_2">
+	<Coords points="437,1377 661,1377 661,1606 437,1606"/></GraphicRegion>
+	<NoiseRegion id="r0">
+	<Coords points="733,248 733,166 406,166 406,248"/></NoiseRegion>
+	<NoiseRegion id="r1">
+	<Coords points="657,2000 657,1930 463,1930 463,2000"/></NoiseRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="793,1921 793,1757 284,1757 284,1921"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="930,878 930,472 118,472 118,878"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="642,975 642,927 466,927 466,975"/></SeparatorRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="896,1203 896,1027 166,1027 166,1203"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

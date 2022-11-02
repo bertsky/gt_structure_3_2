@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:18:31</Created>
+	<LastChange>2019-03-12T14:32:14</LastChange></Metadata>
+	<Page imageFilename="leskien_declination_1876_0184.jpg" imageWidth="2688" imageHeight="3678" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="945,612 2322,612 2322,1314 945,1314"/></TableRegion>
+	<TableRegion id="region_2">
+	<Coords points="1323,2121 1911,2121 1911,2346 1323,2346"/></TableRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1040,577 1040,513 931,513 931,577"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1963,581 1963,527 1390,527 1390,581"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="2409,3050 2409,2340 872,2340 872,3050"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="2422,1322 2422,2021 2340,2021 2340,2020 2176,2020 2176,2019 2011,2019 2011,2018 1846,2018 1846,2017 1682,2017 1682,2016 1517,2016 1517,2015 1352,2015 1352,2014 1188,2014 1188,2013 1023,2013 1023,2012 940,2012 940,1322"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1022,2014 1022,2015 1187,2015 1187,2016 1351,2016 1351,2017 1516,2017 1516,2018 1681,2018 1681,2019 1845,2019 1845,2020 2010,2020 2010,2021 2175,2021 2175,2022 2339,2022 2339,2023 2422,2023 2422,2136 940,2136 940,2014"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

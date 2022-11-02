@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:18:31</Created>
+	<LastChange>2019-03-12T14:32:58</LastChange></Metadata>
+	<Page imageFilename="leskien_declination_1876_0171.jpg" imageWidth="2688" imageHeight="3678" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level5" type="heading">
+	<Coords points="786,756 1194,756 1194,837 786,837"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TableRegion id="region_2">
+	<Coords points="255,1101 1605,1101 1605,1806 255,1806"/></TableRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1736,568 1736,481 1631,481 1631,568"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1409,559 1409,500 568,500 568,559"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1754,713 1754,590 231,590 231,713"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1740,1104 1740,840 254,840 254,1104"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1768,1827 1768,2785 1745,2785 1745,2786 1700,2786 1700,2787 1655,2787 1655,2788 1610,2788 1610,2789 1565,2789 1565,2790 1520,2790 1520,2791 1475,2791 1475,2792 1430,2792 1430,2793 1385,2793 1385,2794 1339,2794 1339,2795 1294,2795 1294,2796 1249,2796 1249,2797 1204,2797 1204,2798 1159,2798 1159,2799 1114,2799 1114,2800 1069,2800 1069,2801 1024,2801 1024,2802 979,2802 979,2803 934,2803 934,2804 889,2804 889,2805 844,2805 844,2806 799,2806 799,2807 754,2807 754,2808 709,2808 709,2809 664,2809 664,2810 619,2810 619,2811 573,2811 573,2812 528,2812 528,2813 483,2813 483,2814 438,2814 438,2815 393,2815 393,2816 348,2816 348,2817 303,2817 303,2818 258,2818 258,2819 236,2819 236,1827"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="1768,2787 1768,2986 236,2986 236,2821 259,2821 259,2820 304,2820 304,2819 349,2819 349,2818 394,2818 394,2817 439,2817 439,2816 484,2816 484,2815 529,2815 529,2814 574,2814 574,2813 620,2813 620,2812 665,2812 665,2811 710,2811 710,2810 755,2810 755,2809 800,2809 800,2808 845,2808 845,2807 890,2807 890,2806 935,2806 935,2805 980,2805 980,2804 1025,2804 1025,2803 1070,2803 1070,2802 1115,2802 1115,2801 1160,2801 1160,2800 1205,2800 1205,2799 1250,2799 1250,2798 1295,2798 1295,2797 1340,2797 1340,2796 1386,2796 1386,2795 1431,2795 1431,2794 1476,2794 1476,2793 1521,2793 1521,2792 1566,2792 1566,2791 1611,2791 1611,2790 1656,2790 1656,2789 1701,2789 1701,2788 1746,2788 1746,2787"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

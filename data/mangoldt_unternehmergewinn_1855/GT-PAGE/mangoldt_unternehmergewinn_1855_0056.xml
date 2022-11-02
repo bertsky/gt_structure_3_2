@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:19:03</Created>
+	<LastChange>2019-03-12T14:25:01</LastChange></Metadata>
+	<Page imageFilename="mangoldt_unternehmergewinn_1855_0056.jpg" imageWidth="1923" imageHeight="2748" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote-continued">
+	<Coords points="438,1791 1638,1791 1638,1950 438,1950"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="footnote">
+	<Coords points="432,1953 1638,1953 1638,2400 432,2400"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1080,383 1080,320 1003,320 1003,383"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<NoiseRegion id="r1">
+	<Coords points="473,833 473,363 333,363 333,833"/></NoiseRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="766,1770 766,1726 430,1726 430,1770"/></SeparatorRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1646,430 1646,1499 1447,1499 1447,1500 1049,1500 1049,1501 651,1501 651,1502 453,1502 453,430"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1646,1501 1646,1716 453,1716 453,1504 652,1504 652,1503 1050,1503 1050,1502 1448,1502 1448,1501"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

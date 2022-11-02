@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:18:58</Created>
+	<LastChange>2019-03-05T12:38:14</LastChange></Metadata>
+	<Page imageFilename="ludwig_physiologie01_1852_0009.jpg" imageWidth="1996" imageHeight="2902" type="content">
+	<PrintSpace>
+	<Coords points="1596,2767 1596,225 25,225 25,2767"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/></OrderedGroup></ReadingOrder>
+	<SeparatorRegion id="region_2">
+	<Coords points="713,1263 898,1263 898,1328 713,1328"/></SeparatorRegion>
+	<SeparatorRegion id="region_3">
+	<Coords points="660,1916 955,1916 955,1978 660,1978"/></SeparatorRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1478,807 1478,325 157,325 157,807"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1042,1192 1042,892 550,892 550,1192"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1439,1671 1439,1489 175,1489 175,1671"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1478,2553 1478,2314 128,2314 128,2553"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:19:08</Created>
+	<LastChange>2019-03-12T14:23:38</LastChange></Metadata>
+	<Page imageFilename="marx_kapital01_1867_0290.jpg" imageWidth="2067" imageHeight="2925" type="content">
+	<PrintSpace>
+	<Coords points="1521,2696 1521,157 0,157 0,2696"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote-continued">
+	<Coords points="24,1149 1371,1149 1371,2205 24,2205"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TableRegion id="region_2">
+	<Coords points="45,1413 1347,1413 1347,2199 45,2199"/></TableRegion>
+	<TextRegion id="region_3" type="footnote">
+	<Coords points="24,2205 1356,2205 1356,2370 24,2370"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="717,353 717,303 628,303 628,353"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="285,1125 285,1092 64,1092 64,1125"/></SeparatorRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1328,392 1328,488 1297,488 1297,489 1236,489 1236,490 1174,490 1174,491 1113,491 1113,492 1052,492 1052,493 991,493 991,494 929,494 929,495 868,495 868,496 807,496 807,497 746,497 746,498 685,498 685,499 623,499 623,500 562,500 562,501 501,501 501,502 440,502 440,503 378,503 378,504 317,504 317,505 256,505 256,506 195,506 195,507 133,507 133,508 72,508 72,509 42,509 42,392"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1328,490 1328,1064 42,1064 42,511 73,511 73,510 134,510 134,509 196,509 196,508 257,508 257,507 318,507 318,506 379,506 379,505 441,505 441,504 502,504 502,503 563,503 563,502 624,502 624,501 686,501 686,500 747,500 747,499 808,499 808,498 869,498 869,497 930,497 930,496 992,496 992,495 1053,495 1053,494 1114,494 1114,493 1175,493 1175,492 1237,492 1237,491 1298,491 1298,490"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:18:05</Created>
+	<LastChange>2019-03-05T12:08:48</LastChange></Metadata>
+	<Page imageFilename="lange_schachspiel_1856_0219.jpg" imageWidth="2018" imageHeight="2853" type="content">
+	<PrintSpace>
+	<Coords points="1531,2703 1531,251 37,251 37,2703"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="136,506 1305,506 1305,932 136,932"/></TableRegion>
+	<TextRegion id="region_2" custom="#heading_level4" type="heading">
+	<Coords points="376,1983 1031,1983 1031,2205 376,2205"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#heading_level5" type="heading">
+	<Coords points="163,2250 1288,2250 1288,2399 163,2399"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="762,475 762,420 658,420 658,475"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1313,1917 1313,941 196,941 196,1917"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="920,1986 920,1934 579,1934 579,1986"/></SeparatorRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="610,2200 610,2244 817,2244 817,2200"/></SeparatorRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1303,2537 1303,2393 134,2393 134,2537"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>
