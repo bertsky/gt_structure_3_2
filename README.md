@@ -91,31 +91,12 @@
             </thead>
             <tbody>
                <tr>
-                  <td>lambert_einrichtung_1761</td>
-                  <td>125</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
+                  <td>lenz_anmerkungen_1774</td>
+                  <td>72</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>29</td>
-               </tr>
-               <tr>
-                  <td>marx_kapital01_1867</td>
-                  <td>67</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>7</td>
                   <td/>
                   <td>4</td>
                   <td/>
@@ -126,7 +107,7 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>20</td>
+                  <td>22</td>
                </tr>
                <tr>
                   <td>liliencron_adjutantenritte_1883</td>
@@ -148,14 +129,52 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>marperger_hutmacher_1719</td>
-                  <td>98</td>
+                  <td>leupold_theatrum_1724</td>
+                  <td>107</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>21</td>
+               </tr>
+               <tr>
+                  <td>marperger_banqven_1717</td>
+                  <td>118</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>28</td>
+               </tr>
+               <tr>
+                  <td>laroche_geschichte01_1771</td>
+                  <td>76</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>6</td>
                   <td/>
                   <td/>
                   <td/>
@@ -167,71 +186,33 @@
                   <td>23</td>
                </tr>
                <tr>
-                  <td>lehnert_seehaefen02_1892</td>
-                  <td>89</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td>5</td>
-                  <td/>
-                  <td>3</td>
+                  <td>ludwig_himmel_1856</td>
+                  <td>41</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>laube_europa03_1837</td>
-                  <td>48</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>14</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>lessing_dramaturgie02_1767</td>
-                  <td>173</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>12</td>
+                  <td>liebig_physiologie_1842</td>
+                  <td>64</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td>29</td>
-               </tr>
-               <tr>
-                  <td>littrow_weltsystem01_1834</td>
-                  <td>58</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
@@ -262,14 +243,34 @@
                   <td>26</td>
                </tr>
                <tr>
-                  <td>leupold_theatrum_1724</td>
-                  <td>107</td>
+                  <td>lavater_kriegsbuechlein_1659</td>
+                  <td>148</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>marperger_colonien_1724</td>
+                  <td>45</td>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
-                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
@@ -277,18 +278,93 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>21</td>
+                  <td>14</td>
                </tr>
                <tr>
-                  <td>mangoldt_unternehmergewinn_1855</td>
-                  <td>79</td>
+                  <td>lilienthal_vogelflug_1889</td>
+                  <td>55</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>10</td>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>lewald_jenny01_1843</td>
+                  <td>50</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>7</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>martzi_minister_1692</td>
+                  <td>74</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>liszt_voelkerrecht_1898</td>
+                  <td>89</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>laube_europa03_1837</td>
+                  <td>48</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>14</td>
                   <td/>
                   <td/>
                   <td/>
@@ -300,14 +376,14 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>kurz_sonnenwirth_1855</td>
-                  <td>40</td>
+                  <td>littrow_weltsystem01_1834</td>
+                  <td>58</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
@@ -317,6 +393,44 @@
                   <td/>
                   <td/>
                   <td>20</td>
+               </tr>
+               <tr>
+                  <td>littrow_weltsystem03_1836</td>
+                  <td>62</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>logau_sinngetichte_1654</td>
+                  <td>110</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
                </tr>
                <tr>
                   <td>lettus_chronik01_1747</td>
@@ -338,12 +452,31 @@
                   <td>26</td>
                </tr>
                <tr>
-                  <td>lehnert_seehaefen01_1891</td>
-                  <td>60</td>
+                  <td>liszt_reichsstrafrecht_1881</td>
+                  <td>70</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>lambert_einrichtung_1761</td>
+                  <td>125</td>
                   <td/>
                   <td/>
                   <td>2</td>
-                  <td>4</td>
+                  <td/>
                   <td/>
                   <td>1</td>
                   <td/>
@@ -351,6 +484,120 @@
                   <td/>
                   <td/>
                   <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>29</td>
+               </tr>
+               <tr>
+                  <td>martzi_klugen_1692</td>
+                  <td>147</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>luz_blitz_1784</td>
+                  <td>62</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>maennling_helicon_1704</td>
+                  <td>105</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>5</td>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>marx_bonaparte_1869</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>lambert_architectonic02_1771</td>
+                  <td>123</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>21</td>
+               </tr>
+               <tr>
+                  <td>laube_europa0201_1837</td>
+                  <td>47</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>9</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
@@ -376,14 +623,109 @@
                   <td>23</td>
                </tr>
                <tr>
-                  <td>laroche_geschichte01_1771</td>
+                  <td>ludwig_physiologie02_1856</td>
+                  <td>93</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td>1</td>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>lohenstein_feldherr03_1690</td>
+                  <td>153</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>8</td>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>21</td>
+               </tr>
+               <tr>
+                  <td>lessing_fabeln_1759</td>
                   <td>76</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>6</td>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>kuernberger_amerikamuede_1855</td>
+                  <td>41</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>laroche_geschichte02_1771</td>
+                  <td>60</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>11</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>lambert_architectonic01_1771</td>
+                  <td>96</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
@@ -395,14 +737,8 @@
                   <td>23</td>
                </tr>
                <tr>
-                  <td>lettus_chronik02_1753</td>
-                  <td>182</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>4</td>
+                  <td>lessing_menschengeschlecht_1780</td>
+                  <td>82</td>
                   <td/>
                   <td/>
                   <td/>
@@ -411,7 +747,13 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>29</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
                </tr>
                <tr>
                   <td>laube_europa0102_1833</td>
@@ -452,538 +794,6 @@
                   <td>27</td>
                </tr>
                <tr>
-                  <td>lachmann_nibelungen_1816</td>
-                  <td>63</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>liebig_agricultur_1840</td>
-                  <td>85</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>13</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>ludwig_himmel_1856</td>
-                  <td>41</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>lohenstein_feldherr03_1690</td>
-                  <td>153</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>8</td>
-                  <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>21</td>
-               </tr>
-               <tr>
-                  <td>laroche_geschichte02_1771</td>
-                  <td>60</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>11</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>logau_sinngetichte_1654</td>
-                  <td>110</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>ludovici_grundriss_1756</td>
-                  <td>150</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>loescher_historie_1705</td>
-                  <td>141</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>25</td>
-               </tr>
-               <tr>
-                  <td>lessing_dramaturgie01_1767</td>
-                  <td>84</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>9</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>lessing_fabeln_1759</td>
-                  <td>76</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>lohenstein_feldherr02_1690</td>
-                  <td>191</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td>4</td>
-                  <td/>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>28</td>
-               </tr>
-               <tr>
-                  <td>liebig_physiologie_1842</td>
-                  <td>64</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>lambert_architectonic02_1771</td>
-                  <td>123</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>21</td>
-               </tr>
-               <tr>
-                  <td>lange_schachspiel_1856</td>
-                  <td>62</td>
-                  <td/>
-                  <td/>
-                  <td>8</td>
-                  <td>1</td>
-                  <td/>
-                  <td>13</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>marpurg_versuch_1776</td>
-                  <td>96</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td>8</td>
-                  <td>13</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>24</td>
-               </tr>
-               <tr>
-                  <td>maennling_helicon_1704</td>
-                  <td>105</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>5</td>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>lessing_menschengeschlecht_1780</td>
-                  <td>82</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>lenz_anmerkungen_1774</td>
-                  <td>72</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>liszt_reichsstrafrecht_1881</td>
-                  <td>70</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>ledebur_eisenhuettenkunde_1884</td>
-                  <td>72</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>lohenstein_feldherr01_1689</td>
-                  <td>91</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>ludwig_physiologie02_1856</td>
-                  <td>93</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td>1</td>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>martzi_klugen_1692</td>
-                  <td>147</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>laube_europa0101_1833</td>
-                  <td>40</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>martzi_minister_1692</td>
-                  <td>74</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>lambert_organon02_1764</td>
-                  <td>87</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>8</td>
-                  <td>9</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>24</td>
-               </tr>
-               <tr>
-                  <td>marperger_colonien_1724</td>
-                  <td>45</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>14</td>
-               </tr>
-               <tr>
-                  <td>lavater_fragmente04_1778</td>
-                  <td>152</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>12</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>25</td>
-               </tr>
-               <tr>
                   <td>littrow_weltsystem02_1835</td>
                   <td>60</td>
                   <td/>
@@ -1003,101 +813,6 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>luz_blitz_1784</td>
-                  <td>62</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>lambert_organon01_1764</td>
-                  <td>76</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>21</td>
-               </tr>
-               <tr>
-                  <td>ludwig_physiologie01_1852</td>
-                  <td>73</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td>2</td>
-                  <td/>
-                  <td>9</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>lambert_architectonic01_1771</td>
-                  <td>96</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>lavater_kriegsbuechlein_1659</td>
-                  <td>148</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
                   <td>lenau_gedichte_1832</td>
                   <td>56</td>
                   <td/>
@@ -1106,44 +821,6 @@
                   <td/>
                   <td/>
                   <td>7</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>laube_europa0201_1837</td>
-                  <td>47</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>9</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>laband_staatsrecht01_1876</td>
-                  <td>78</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
                   <td/>
                   <td/>
                   <td/>
@@ -1174,83 +851,7 @@
                   <td>24</td>
                </tr>
                <tr>
-                  <td>lavater_fragmente02_1776</td>
-                  <td>98</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>lauremberg_schertzgedichte_1652</td>
-                  <td>98</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>martens_voelkerrecht_1796</td>
-                  <td>80</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>littrow_weltsystem03_1836</td>
-                  <td>62</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>marx_bonaparte_1869</td>
+                  <td>kurz_sonnenwirth_1855</td>
                   <td>40</td>
                   <td/>
                   <td/>
@@ -1269,23 +870,23 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>kuernberger_amerikamuede_1855</td>
-                  <td>41</td>
+                  <td>laube_europa0202_1837</td>
+                  <td>34</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
+                  <td>6</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
+                  <td>15</td>
                </tr>
                <tr>
                   <td>maro_abriss_1668</td>
@@ -1307,14 +908,71 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>liszt_voelkerrecht_1898</td>
-                  <td>89</td>
+                  <td>lambert_organon02_1764</td>
+                  <td>87</td>
                   <td/>
                   <td/>
                   <td/>
+                  <td/>
+                  <td/>
+                  <td>8</td>
+                  <td>9</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>24</td>
+               </tr>
+               <tr>
+                  <td>lohenstein_feldherr02_1690</td>
+                  <td>191</td>
                   <td/>
                   <td/>
                   <td>1</td>
+                  <td>4</td>
+                  <td/>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>28</td>
+               </tr>
+               <tr>
+                  <td>lewald_jenny02_1843</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>marx_kapital01_1867</td>
+                  <td>67</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>7</td>
+                  <td/>
+                  <td>4</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1345,6 +1003,25 @@
                   <td>20</td>
                </tr>
                <tr>
+                  <td>marperger_hutmacher_1719</td>
+                  <td>98</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
                   <td>marperger_correspondent_1717</td>
                   <td>139</td>
                   <td/>
@@ -1364,15 +1041,15 @@
                   <td>29</td>
                </tr>
                <tr>
-                  <td>leskien_declination_1876</td>
-                  <td>92</td>
+                  <td>marpurg_versuch_1776</td>
+                  <td>96</td>
+                  <td/>
                   <td/>
                   <td/>
                   <td>2</td>
+                  <td/>
                   <td>8</td>
-                  <td/>
-                  <td>1</td>
-                  <td/>
+                  <td>13</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1380,11 +1057,11 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>20</td>
+                  <td>24</td>
                </tr>
                <tr>
-                  <td>lehmann_versuch_1756</td>
-                  <td>83</td>
+                  <td>lettus_chronik02_1753</td>
+                  <td>182</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1399,11 +1076,125 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>25</td>
+                  <td>29</td>
                </tr>
                <tr>
-                  <td>lewald_jenny02_1843</td>
-                  <td>40</td>
+                  <td>lehnert_seehaefen02_1892</td>
+                  <td>89</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td>5</td>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>lavater_fragmente01_1775</td>
+                  <td>96</td>
+                  <td/>
+                  <td/>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>24</td>
+               </tr>
+               <tr>
+                  <td>ledebur_eisenhuettenkunde_1884</td>
+                  <td>72</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>lessing_dramaturgie02_1767</td>
+                  <td>173</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>12</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>29</td>
+               </tr>
+               <tr>
+                  <td>lange_schachspiel_1856</td>
+                  <td>62</td>
+                  <td/>
+                  <td/>
+                  <td>8</td>
+                  <td>1</td>
+                  <td/>
+                  <td>13</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>lohenstein_feldherr01_1689</td>
+                  <td>91</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>martens_voelkerrecht_1796</td>
+                  <td>80</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1440,14 +1231,14 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>laube_europa0202_1837</td>
-                  <td>34</td>
+                  <td>mangoldt_unternehmergewinn_1855</td>
+                  <td>79</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>6</td>
+                  <td>10</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1456,55 +1247,31 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>15</td>
+                  <td>20</td>
                </tr>
                <tr>
-                  <td>marperger_banqven_1717</td>
-                  <td>118</td>
+                  <td>leskien_declination_1876</td>
+                  <td>92</td>
                   <td/>
+                  <td/>
+                  <td>2</td>
+                  <td>8</td>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>4</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td>28</td>
+                  <td>20</td>
                </tr>
                <tr>
-                  <td>lavater_fragmente01_1775</td>
-                  <td>96</td>
+                  <td>loescher_historie_1705</td>
+                  <td>141</td>
                   <td/>
-                  <td/>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>24</td>
-               </tr>
-               <tr>
-                  <td>lewald_jenny01_1843</td>
-                  <td>50</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>7</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1513,18 +1280,251 @@
                   <td/>
                   <td/>
                   <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>lavater_fragmente04_1778</td>
+                  <td>152</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>12</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>ludwig_physiologie01_1852</td>
+                  <td>73</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td>2</td>
+                  <td/>
+                  <td>9</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>lilienthal_vogelflug_1889</td>
-                  <td>55</td>
+                  <td>ludovici_grundriss_1756</td>
+                  <td>150</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td/>
                   <td/>
                   <td/>
                   <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>lauremberg_schertzgedichte_1652</td>
+                  <td>98</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
                   <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>lehmann_versuch_1756</td>
+                  <td>83</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>lessing_dramaturgie01_1767</td>
+                  <td>84</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>9</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>lehnert_seehaefen01_1891</td>
+                  <td>60</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td>4</td>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>liebig_agricultur_1840</td>
+                  <td>85</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>13</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>laband_staatsrecht01_1876</td>
+                  <td>78</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>lachmann_nibelungen_1816</td>
+                  <td>63</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>lambert_organon01_1764</td>
+                  <td>76</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>21</td>
+               </tr>
+               <tr>
+                  <td>lavater_fragmente02_1776</td>
+                  <td>98</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>laube_europa0101_1833</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
