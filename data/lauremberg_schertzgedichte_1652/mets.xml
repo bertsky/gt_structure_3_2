@@ -20,26 +20,26 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
+                  <mods:shelfLocator>HAB Wolfenbüttel, M: Lo 4314</mods:shelfLocator>
+                  <mods:url>https://opac.lbs-braunschweig.gbv.de/DB=2/XMLPRS=N/PPN?PPN=536156859</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1652</mods:dateIssued>
                   <mods:publisher/>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Belletristik</mods:classification>
+               <mods:classification authority="DTA">Lyrik</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Veer Schertz-Gedichte</mods:title>
+                  <mods:subTitle>I. Van der Minschen itzigem Wandel und Maneeren. II. Van Almodischer Kleder-Dracht. III. Van vormengder Sprake/ und Titeln. IV. Van Poësie und Rym Gedichten</mods:subTitle>
                </mods:titleInfo>
                <mods:language>
                   <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
@@ -53,12 +53,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Lauremberg</mods:namePart>
+                  <mods:namePart type="given">Johann</mods:namePart>
+                  <mods:displayForm>Johann Lauremberg</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>[2] Bl., 91 S.</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
@@ -68,7 +68,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Veer Schertz-Gedichte</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>

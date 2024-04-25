@@ -20,26 +20,26 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
+                  <mods:physicalLocation>Universitäts- und Landesbibliothek Halle</mods:physicalLocation>
+                  <mods:shelfLocator>ULB Halle, Fc 1076 m (2)</mods:shelfLocator>
                   <mods:url/>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Frankfurt</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1692</mods:dateIssued>
+                  <mods:publisher>Erythropel</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Fachtext</mods:classification>
+               <mods:classification authority="DTA">Politik, Anstandsliteratur</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Der Vollkommene Staats-Minister, oder Kunst</mods:title>
+                  <mods:subTitle>Wie man sich bey Hof- und Staats-Geschäfften verhalten soll</mods:subTitle>
                </mods:titleInfo>
                <mods:language>
                   <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
@@ -53,12 +53,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Martzi</mods:namePart>
+                  <mods:namePart type="given">Georg</mods:namePart>
+                  <mods:displayForm>George Martzi</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>[8] Bl., 174 S.</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
@@ -68,7 +68,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Der Vollkommene Staats-Minister, oder Kunst</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>

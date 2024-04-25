@@ -20,26 +20,26 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>SUB Göttingen</mods:physicalLocation>
+                  <mods:shelfLocator>SUB Göttingen, 8 POL I, 9504/c</mods:shelfLocator>
+                  <mods:url>https://opac.sub.uni-goettingen.de/DB=1/XMLPRS=N/PPN?PPN=137087489</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Dresden</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1724</mods:dateIssued>
                   <mods:publisher/>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Fachtext</mods:classification>
+               <mods:classification authority="DTA">Geographie</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Historische und Politische Anmerckungen über die in denen alten, mittlern und jüngern Zeiten bekannt gewordene Colonien</mods:title>
+                  <mods:subTitle>, Oder Pflantz-Städte/ unterschiedlicher Völcker, Gesellschafften, u. Familien, Welche Theils freywillig, theils gezwungener Weise ihre alte Wohn-Sitze verlassen, und sich anderwerts wieder häußlich établirt haben ...</mods:subTitle>
                </mods:titleInfo>
                <mods:language>
                   <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
@@ -53,12 +53,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Marperger</mods:namePart>
+                  <mods:namePart type="given">Paul Jacob</mods:namePart>
+                  <mods:displayForm>Paul Jacob Marperger</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>37 [i.e.48] S.</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
@@ -68,7 +68,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Historische und Politische Anmerckungen über die in denen alten, mittlern und jüngern Zeiten bekannt gewordene Colonien</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>

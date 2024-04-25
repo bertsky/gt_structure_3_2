@@ -58,9 +58,9 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family">N. N.</mods:namePart>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> N. N.</mods:displayForm>
+                  <mods:namePart type="family">Martzi</mods:namePart>
+                  <mods:namePart type="given">Georg</mods:namePart>
+                  <mods:displayForm>George Martzi</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
                   <mods:extent>[5] Bl., 238 [i.e. 228] S. : Frontisp.</mods:extent>
