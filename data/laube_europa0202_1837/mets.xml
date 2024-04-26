@@ -20,27 +20,32 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>ÖNB Wien</mods:physicalLocation>
+                  <mods:shelfLocator>ÖNB Wien, Signatur: 5411-A.2,2 ALT MAG</mods:shelfLocator>
+                  <mods:url>http://data.onb.ac.at/ABO/%2BZ161325903</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Mannheim</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1837</mods:dateIssued>
+                  <mods:publisher>Hoff</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Belletristik</mods:classification>
+               <mods:classification authority="DTA">Novelle</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Das junge Europa</mods:title>
+                  <mods:subTitle>Novelle</mods:subTitle>
                </mods:titleInfo>
+               <mods:part order="2">
+                  <mods:detail type="volume">
+                     <mods:number>2. Band, 2. Teil Die Krieger.</mods:number>
+                  </mods:detail>
+               </mods:part>
                <mods:language>
                   <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
@@ -53,12 +58,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Laube</mods:namePart>
+                  <mods:namePart type="given">Heinrich</mods:namePart>
+                  <mods:displayForm>Heinrich Laube</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>244, 297 S.</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
@@ -68,7 +73,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Das junge Europa</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>

@@ -20,8 +20,8 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
+                  <mods:physicalLocation>SUB Göttingen</mods:physicalLocation>
+                  <mods:shelfLocator>SUB Göttingen, 8 FAB VIII, 5719/b:2,1/2 RARA</mods:shelfLocator>
                   <mods:url/>
                </mods:location>
                <mods:originInfo>
@@ -29,9 +29,7 @@
                      <mods:placeTerm type="text">Mannheim</mods:placeTerm>
                   </mods:place>
                   <mods:dateIssued encoding="w3cdtf" keyDate="yes">1837</mods:dateIssued>
-                  <mods:publisher>
-                     Hoff
-                  </mods:publisher>
+                  <mods:publisher>Hoff</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf">2018-05-16T09:18:07Z</mods:dateCaptured>
